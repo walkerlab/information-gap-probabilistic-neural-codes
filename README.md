@@ -1,7 +1,7 @@
 # An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes
 
 Code for the paper: "An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes" by Po-Chen Kuo and Edgar Y. Walker. Published in [ICLR 2026](https://openreview.net/forum?id=doxBjZ88H3). 
-(arXiv: []())
+([arXiv](https://arxiv.org/abs/2603.01387))
 
 ```
 @inproceedings{
